@@ -2,17 +2,24 @@
 
 body {
   background: green;
+  font-family: fantasy;
 }
 
 header {
   background:green
 }
 
-li {
-background-color: black;
+.jumbotron {
+  background-color: gold;
+  font-family: fantasy;
 }
+
+li {
+background-color: blue;
+}
+
 
 img {
   height: 400px;
-  margin: auto;
-};
+  float: center;
+}
